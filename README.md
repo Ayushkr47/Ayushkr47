@@ -75,20 +75,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshith7002&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshith7002&theme=tokyonight" alt="GitHub streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshith7002&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 📈 Activity Graph
-[![harshith7002's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshith7002&bg_color=1a1b27&color=38bdae&line=38bdae&point=f5a97f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 ## 🐍 Contribution Snake
 ![snake gif](https://github.com/harshith7002/harshith7002/blob/output/github-contribution-grid-snake.svg)
 
