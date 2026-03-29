@@ -76,7 +76,7 @@
 
 ---
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/harshith7002/harshith7002/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Ayushkr47/Ayushkr47/blob/output/snake-dark.svg)
 
 
 ---
